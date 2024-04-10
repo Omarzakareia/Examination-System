@@ -1,0 +1,14 @@
+D:\Career\Projects\BackEnd\OOP\Examination_System\Examination_System\bin\Debug\net6.0\Examination_System.exe
+D:\Career\Projects\BackEnd\OOP\Examination_System\Examination_System\bin\Debug\net6.0\Examination_System.deps.json
+D:\Career\Projects\BackEnd\OOP\Examination_System\Examination_System\bin\Debug\net6.0\Examination_System.runtimeconfig.json
+D:\Career\Projects\BackEnd\OOP\Examination_System\Examination_System\bin\Debug\net6.0\Examination_System.dll
+D:\Career\Projects\BackEnd\OOP\Examination_System\Examination_System\bin\Debug\net6.0\Examination_System.pdb
+D:\Career\Projects\BackEnd\OOP\Examination_System\Examination_System\obj\Debug\net6.0\Examination_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Projects\BackEnd\OOP\Examination_System\Examination_System\obj\Debug\net6.0\Examination_System.AssemblyInfoInputs.cache
+D:\Career\Projects\BackEnd\OOP\Examination_System\Examination_System\obj\Debug\net6.0\Examination_System.AssemblyInfo.cs
+D:\Career\Projects\BackEnd\OOP\Examination_System\Examination_System\obj\Debug\net6.0\Examination_System.csproj.CoreCompileInputs.cache
+D:\Career\Projects\BackEnd\OOP\Examination_System\Examination_System\obj\Debug\net6.0\Examination_System.dll
+D:\Career\Projects\BackEnd\OOP\Examination_System\Examination_System\obj\Debug\net6.0\refint\Examination_System.dll
+D:\Career\Projects\BackEnd\OOP\Examination_System\Examination_System\obj\Debug\net6.0\Examination_System.pdb
+D:\Career\Projects\BackEnd\OOP\Examination_System\Examination_System\obj\Debug\net6.0\Examination_System.genruntimeconfig.cache
+D:\Career\Projects\BackEnd\OOP\Examination_System\Examination_System\obj\Debug\net6.0\ref\Examination_System.dll
